@@ -92,6 +92,11 @@ body{
     height: 50px;
     background-color:rosybrown;
     clear: both;
+
+}
+
+table{
+    width: 30%;
 }
 
 #seccion1{
