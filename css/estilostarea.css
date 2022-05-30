@@ -1,0 +1,52 @@
+#t1{
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 40px;
+    background-color:rgb(255, 255, 255);
+    clear: both;
+    text-decoration: overline;
+}
+#t2{
+    text-align: center;
+    
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/90/a6/f6/90a6f624a929109a6492b7638e134b08.jpg);
+}
+#p{
+    text-align: center;
+    color: #000;
+    text-decoration: solid;
+    text-overflow: ellipsis;
+
+}
+#div2{
+   
+  
+    height: 200px;
+ 
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+img{
+    width: 10%;
+    margin: auto;
+    display: inline-block;
+}
+#piePagina{
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 50%;
+    margin: 25% 25% 10px;
+    height: 70px;
+    background-color:rgb(255, 255, 255);
+    clear: both;
+    align-items: center;
+}

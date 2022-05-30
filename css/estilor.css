@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/ab/fd/a3/abfda39cf7c6c1506dd58ba59cb70cea.jpg);
+    
+}
+#piePagina{
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 50%;
+    margin: 25% 25% 10px;
+    height: 50px;
+    background-color:rgb(255, 2, 179);
+    clear: both;
+    align-items: center;
+}
+#t1{
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 20%;
+    margin: 10% 40% 0px;
+    height: 220px;
+    background-color:rgb(0, 206, 195);
+    clear: both;
+    align-items: center;
+}
+#p1{
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 0px;
+    height: 40px;
+    background-color:rgb(0, 0, 0);
+    clear: both;
+    text-decoration: overline;
+}
